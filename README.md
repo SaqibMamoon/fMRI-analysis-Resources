@@ -1,7 +1,7 @@
 # fMRI-analysis-Resources
 Learning materials for fMRI, CT, PET, EGG analysis, including tutorials, toolboxes, lab links, articles and datasets.
 
-# GraphVar - Brain Network Analysis ToolBox( Graph based Analysis)
+# 1) GraphVar - Brain Network Analysis ToolBox( Graph based Analysis)
 
 ### Youtube Tutorials: 
 https://www.youtube.com/@graphvar9022
@@ -10,7 +10,7 @@ https://www.youtube.com/@graphvar9022
 
 
 
-# Analysis of Functional Magnetic Resonance Imaging (Graduate)
+# 2) Analysis of Functional Magnetic Resonance Imaging (Graduate)
  Elective Course for the Graduate Students
 Lecturer: Chia-Feng Lu (alvin4016@ym.edu.tw)
 功能性磁振影像分析 (醫放系研究所)
@@ -22,7 +22,10 @@ https://www.youtube.com/playlist?list=PLx_IWc-RN82uKTWzgho2ARVGan8TNlb9d
 ### Webiste Link: Materials & Resources
 http://cflu.lab.nycu.edu.tw/CFLu_course_fMRIana.html
 
-# Neuroimaging Research Methods
+# 3) Neuroimaging Research Methods
 
 ### YouTube short introduction Tutorials for fMRI analysis
 https://www.youtube.com/@neuroimagingresearchmethods/playlists
+
+# 4) Functional Neuroimaging Analysis in Python using fMRIPREP (BIDS)
+### NoteBook Link: https://carpentries-incubator.github.io/SDC-BIDS-fMRI/aio/index.html

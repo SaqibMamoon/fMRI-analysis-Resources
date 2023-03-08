@@ -1,7 +1,7 @@
 # fMRI-analysis-Resources
 Learning materials for fMRI, CT, PET, EGG analysis, including tutorials, toolboxes, lab links, articles and datasets.
 
-# GraphVar - Brain Network Analysis ( Graph based Analysis)
+# GraphVar - Brain Network Analysis ToolBox( Graph based Analysis)
 
 
 

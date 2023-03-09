@@ -18,3 +18,17 @@ https://nilearn.github.io/dev/index.html
 "An open-source, community-developed initiative under the umbrella of NiPy, is a Python project that provides a uniform interface to existing neuroimaging software and facilitates interaction between these packages within a single workflow. Nipype provides an environment that encourages interactive exploration of algorithms from different packages (e.g., ANTS, SPM, FSL, FreeSurfer, Camino, MRtrix, MNE, AFNI, Slicer, DIPY), eases the design of workflows within and between packages, and reduces the learning curve necessary to use different packages. Nipype is creating a collaborative platform for neuroimaging software development in a high-level language and addressing limitations of existing pipeline systems."
 ### Weblink:
 https://nipype.readthedocs.io/en/latest/index.html
+
+# NIPY
+"NIPY is a python project for analysis of structural and functional neuroimaging data."
+### Weblink:
+http://nipy.org/nipy/
+
+# NiTime
+"Nitime is a library for time-series analysis of data from neuroscience experiments.
+It contains a core of numerical algorithms for time-series analysis both in the time and spectral domains, a set of container objects to represent time-series, and auxiliary objects that expose a high level interface to the numerical machinery and make common analysis tasks easy to express with compact and semantically clear code."
+### Weblink:
+http://nipy.org/nitime/
+
+## All information on one page:
+https://nipy.org/

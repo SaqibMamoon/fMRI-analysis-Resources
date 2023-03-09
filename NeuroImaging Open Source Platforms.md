@@ -13,3 +13,8 @@ It supports general linear model (GLM) based analysis and leverages the scikit-l
 
 ### Weblink
 https://nilearn.github.io/dev/index.html
+
+# Nipype
+"An open-source, community-developed initiative under the umbrella of NiPy, is a Python project that provides a uniform interface to existing neuroimaging software and facilitates interaction between these packages within a single workflow. Nipype provides an environment that encourages interactive exploration of algorithms from different packages (e.g., ANTS, SPM, FSL, FreeSurfer, Camino, MRtrix, MNE, AFNI, Slicer, DIPY), eases the design of workflows within and between packages, and reduces the learning curve necessary to use different packages. Nipype is creating a collaborative platform for neuroimaging software development in a high-level language and addressing limitations of existing pipeline systems."
+### Weblink:
+https://nipype.readthedocs.io/en/latest/index.html

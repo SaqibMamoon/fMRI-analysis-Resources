@@ -28,4 +28,9 @@ http://cflu.lab.nycu.edu.tw/CFLu_course_fMRIana.html
 https://www.youtube.com/@neuroimagingresearchmethods/playlists
 
 # 4) Functional Neuroimaging Analysis in Python using fMRIPREP (BIDS)
-### NoteBook Link: https://carpentries-incubator.github.io/SDC-BIDS-fMRI/aio/index.html
+### NoteBook 
+Link: https://carpentries-incubator.github.io/SDC-BIDS-fMRI/aio/index.html
+
+# FSL Course Youtube (60) lectures
+### Weblink:
+https://www.youtube.com/watch?v=3ExL6J4BIeo&list=PLvgasosJnUVl_bt8VbERUyCLU93OG31h_&ab_channel=FSLCourse

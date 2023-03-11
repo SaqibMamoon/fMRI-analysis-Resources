@@ -32,3 +32,7 @@ https://www.youtube.com/watch?v=3ExL6J4BIeo&list=PLvgasosJnUVl_bt8VbERUyCLU93OG3
 Multiple lectures including fMRI, EEG and others
 ### Weblink:
 https://www.youtube.com/@DirkOstwald
+
+## Neural Data Science with Python (Video Lectures) NESC 3505 Neural Data Science, by Aaron J Newman
+### weblink: 
+https://www.youtube.com/playlist?list=PLtfEWMIgWS22MMZjPIzBRE2cHhMcvEKwp

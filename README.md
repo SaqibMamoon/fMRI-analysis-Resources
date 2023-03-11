@@ -27,3 +27,8 @@ Link: https://carpentries-incubator.github.io/SDC-BIDS-fMRI/aio/index.html
 ## FSL Course Youtube (60) Video Lectures
 ### Weblink:
 https://www.youtube.com/watch?v=3ExL6J4BIeo&list=PLvgasosJnUVl_bt8VbERUyCLU93OG31h_&ab_channel=FSLCourse
+
+## Computational Congnitive Neuroscience (Video Lectures) 
+Multiple lectures including fMRI, EEG and others
+### Weblink:
+https://www.youtube.com/@DirkOstwald

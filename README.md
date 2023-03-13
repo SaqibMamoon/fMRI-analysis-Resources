@@ -36,3 +36,7 @@ https://www.youtube.com/@DirkOstwald
 ## Neural Data Science with Python (Video Lectures) NESC 3505 Neural Data Science, by Aaron J Newman
 ### weblink: 
 https://www.youtube.com/playlist?list=PLtfEWMIgWS22MMZjPIzBRE2cHhMcvEKwp
+
+## Essentials of Neuroscience with MATLAB (Video Lectures) Youtube
+### Weblink:
+https://www.youtube.com/playlist?list=PLn0OLiymPak1b2aYULx6hDVU7wSGEUJqw

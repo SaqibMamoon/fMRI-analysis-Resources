@@ -39,5 +39,6 @@ https://www.youtube.com/playlist?list=PLtfEWMIgWS22MMZjPIzBRE2cHhMcvEKwp
 
 ## Essentials of Neuroscience with MATLAB (Video Lectures) Youtube
 ### Weblink:
-https://www.youtube.com/playlist?list=PLn0OLiymPak1b2aYULx6hDVU7wSGEUJqw \
-##### https://neuraldatascience.io/intro.html
+https://www.youtube.com/playlist?list=PLn0OLiymPak1b2aYULx6hDVU7wSGEUJqw
+
+https://neuraldatascience.io/intro.html

@@ -42,3 +42,6 @@ https://www.youtube.com/playlist?list=PLtfEWMIgWS22MMZjPIzBRE2cHhMcvEKwp
 https://www.youtube.com/playlist?list=PLn0OLiymPak1b2aYULx6hDVU7wSGEUJqw
 
 https://neuraldatascience.io/intro.html
+
+## BRAPH (Brain Analysis using Graph Theory)
+[Documentation and Software link](http://braph.org/software/)

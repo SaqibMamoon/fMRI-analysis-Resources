@@ -45,3 +45,26 @@ https://neuraldatascience.io/intro.html
 
 ## BRAPH (Brain Analysis using Graph Theory)
 [Documentation and Software link](http://braph.org/software/)
+
+## Numerics of Machine Learning (Tübingen Machine Learning)
+[YouTube PlayList](https://www.youtube.com/playlist?list=PL05umP7R6ij2lwDdj7IkuHoP9vHlEcH0s)
+
+## Math for Deep Learning — Andreas Geiger
+[YouTube PlayList](https://www.youtube.com/playlist?list=PL05umP7R6ij0bo4UtMdzEJ6TiLOqj4ZCm)
+
+## Essential Statistics – Philipp Berens, 2020/21 Tübingen Machine Learning
+[YouTube PlayList](https://www.youtube.com/playlist?list=PL05umP7R6ij0Gw5SLIrOA1dMYScCx4oXT)
+
+## Data Compression With Deep Probabilistic Models — Robert
+[YouTube PlayList](https://www.youtube.com/playlist?list=PL05umP7R6ij0Mp1dW2HuXlb-UQIYnv8xK)
+
+## Neural Data Science — Philipp Berens, 2021 Tübingen Machine Learning
+[YouTube PlayList](https://www.youtube.com/playlist?list=PL05umP7R6ij3SxudmSWFL_zGh0BMrRdrx)
+
+## Mathematics for Machine Learning — Ulrike von Luxburg 
+[YouTube PlayList](https://www.youtube.com/playlist?list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS)
+
+## Probabilistic Machine Learning — Philipp Hennig, 2021
+[YouTube PlayList](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)
+
+

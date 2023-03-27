@@ -68,3 +68,7 @@ https://neuraldatascience.io/intro.html
 ## Pybrain: MRI analysis in Python using Nipype, Nilearn and more
 [YouTube Link](https://www.youtube.com/watch?v=4FVGn8vodkc&ab_channel=MRCCBU)
 [Repository Link](https://github.com/miykael/workshop_pybrain)
+
+## Tutorial on machine learning in functional MRI using Nilearn
+[YouTube Link](https://www.youtube.com/watch?v=g0y7wpktdjk&t=3576s&ab_channel=MAINConference)
+[GitHub Link](https://github.com/main-educational/intro_nilearn)

@@ -67,3 +67,6 @@ https://neuraldatascience.io/intro.html
 ## Tutorial on machine learning in functional MRI using Nilearn
 [YouTube Link](https://www.youtube.com/watch?v=g0y7wpktdjk&t=3576s&ab_channel=MAINConference)
 [GitHub Link](https://github.com/main-educational/intro_nilearn)
+
+## MAIN educational 2022
+[YouTube PlayList](https://www.youtube.com/playlist?list=PLbQ17oTKprF0dzInRA0L8yRNOGIKo6OwU)

@@ -70,3 +70,6 @@ https://neuraldatascience.io/intro.html
 
 ## MAIN educational 2022
 [YouTube PlayList](https://www.youtube.com/playlist?list=PLbQ17oTKprF0dzInRA0L8yRNOGIKo6OwU)
+
+## Introduction to Neuroscience Professor Bing Wen Brunton
+[YouTube PlayList](https://www.youtube.com/playlist?list=PLqgZEQsU_8E0l1P9bKR6yKOKPMpoJ_tLR)

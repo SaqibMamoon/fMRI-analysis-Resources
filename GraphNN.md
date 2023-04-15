@@ -1,3 +1,4 @@
+# Tools and Lectures
 ## [Graph Deep Learning Lab (Xavier Bresson)](https://graphdeeplearning.github.io/)
 "We investigate fundamental techniques in Graph Deep Learning, a new framework that combines graph theory and deep neural networks to tackle complex data domains in physical science, natural language processing, computer vision, and combinatorial optimization."
 ## [Daniel Daza](https://dfdazac.github.io/)
@@ -8,3 +9,13 @@ Python interface of igraph, a fast and open source C library to manipulate and a
 Create, manipulate, and analyze networks.
 Convert graphs from/to networkx, graph-tool and many file formats.
 Plot networks using Cairo, matplotlib, and plotly.
+## GNNExplainer: Generating Explanations for Graph Neural Networks
+
+# Github Profiles of Researchers in GNN
+## [REX (ZHITAO) YING](https://www.cs.yale.edu/homes/ying-rex/)
+assistant professor in the Department of Computer Science at Yale University
+##[Anshul Yadav](https://anshulyadav.org/)
+ Member of Technical Staff at Oracle India Pvt Ltd, Bangalore. 
+# Libraries
+## [Pytorch Gerometric](https://www.pyg.org/)
+PyG is the ultimate library for Graph Neural Networks

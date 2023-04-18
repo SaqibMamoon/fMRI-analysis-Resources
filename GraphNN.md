@@ -10,7 +10,7 @@ Create, manipulate, and analyze networks.
 Convert graphs from/to networkx, graph-tool and many file formats.
 Plot networks using Cairo, matplotlib, and plotly.
 ## GNNExplainer: Generating Explanations for Graph Neural Networks
-
+## [Structural Analysis and Visualization of Networks.](https://www.youtube.com/playlist?list=PLriUvS7IljvkBLqU4nPOZtAkp7rgpxjg1)
 # Github Profiles of Researchers in GNN
 ## [REX (ZHITAO) YING](https://www.cs.yale.edu/homes/ying-rex/)
 assistant professor in the Department of Computer Science at Yale University

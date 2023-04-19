@@ -28,3 +28,5 @@ connectivity multiplex
 connectivity multiplex group_average
 
 [BRAPH](http://braph.org/connectivity-analysis/graph-measures/)
+
+## [MNE-Python: Open-source Python package for exploring, visualizing, and analyzing human neurophysiological data: MEG, EEG, sEEG, ECoG, NIRS, and more.](https://mne.tools/stable/index.html)

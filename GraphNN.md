@@ -11,6 +11,8 @@ Convert graphs from/to networkx, graph-tool and many file formats.
 Plot networks using Cairo, matplotlib, and plotly.
 ## GNNExplainer: Generating Explanations for Graph Neural Networks
 ## [Structural Analysis and Visualization of Networks.](https://www.youtube.com/playlist?list=PLriUvS7IljvkBLqU4nPOZtAkp7rgpxjg1)
+## [Ahlad Kumar: Graph Neural Network](https://www.youtube.com/watch?v=1miz7yggcTg&t=228s&ab_channel=AhladKumar)
+
 # Github Profiles of Researchers in GNN
 ## [REX (ZHITAO) YING](https://www.cs.yale.edu/homes/ying-rex/)
 assistant professor in the Department of Computer Science at Yale University
@@ -18,6 +20,7 @@ assistant professor in the Department of Computer Science at Yale University
  Member of Technical Staff at Oracle India Pvt Ltd, Bangalore. 
 ## [Prof. Jure Leskovec](http://snap.stanford.edu/people.html)
 Research area is applied machine learning for large interconnected systems focusing on modeling complex, richly-labeled relational structures, graphs, and networks for systems at all scales, from interactions of proteins in a cell to interactions between humans in a society. Applications include commonsense reasoning, recommender systems, computational social science, and computational biology with an emphasis on drug discovery.
+
 # Libraries
 ## [Pytorch Gerometric](https://www.pyg.org/)
 PyG is the ultimate library for Graph Neural Networks

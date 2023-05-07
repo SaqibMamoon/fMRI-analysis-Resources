@@ -14,6 +14,7 @@ Plot networks using Cairo, matplotlib, and plotly.
 ## [Ahlad Kumar: Graph Neural Network](https://www.youtube.com/watch?v=1miz7yggcTg&t=228s&ab_channel=AhladKumar)
 ## [Converting a Tabular Dataset to a Temporal Graph Dataset for GNNs](https://www.youtube.com/watch?v=XPTwvvlHaUA&ab_channel=DeepFindr)
 ## [An Attempt at Demystifying Graph Deep Learning](https://ericmjl.github.io/essays-on-data-science/machine-learning/graph-nets/)
+
 # Github Profiles of Researchers in GNN
 ## [REX (ZHITAO) YING](https://www.cs.yale.edu/homes/ying-rex/)
 assistant professor in the Department of Computer Science at Yale University

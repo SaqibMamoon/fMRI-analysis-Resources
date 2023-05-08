@@ -3,3 +3,5 @@
 ## [MRtrix3: Advanced tools for the analysis of diffusion MRI data](https://www.mrtrix.org/)
 
 ## [neptune.ai: Log, organize, compare, register, and share all your ML model metadata in a single place](https://neptune.ai/)
+
+## [TikZ.net: Graphics with TikZ in LaTeX](https://tikz.net/)

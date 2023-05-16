@@ -7,3 +7,5 @@
 ## [TikZ.net: Graphics with TikZ in LaTeX](https://tikz.net/)
 
 ## [flourish studio: Data Visualization](https://app.flourish.studio/templates)
+
+## [SALib - Sensitivity Analysis Library in Python](https://salib.readthedocs.io/en/latest/)

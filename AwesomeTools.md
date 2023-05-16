@@ -9,3 +9,5 @@
 ## [flourish studio: Data Visualization](https://app.flourish.studio/templates)
 
 ## [SALib - Sensitivity Analysis Library in Python](https://salib.readthedocs.io/en/latest/)
+
+## [PyMC is a probabilistic programming library for Python that allows users to build Bayesian models with a simple Python API and fit them using Markov chain Monte Carlo (MCMC) methods.](https://www.pymc.io/welcome.html) The simulation study code

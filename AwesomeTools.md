@@ -15,4 +15,4 @@
 ## [The non-linear optimizer](https://github.com/jjhartmann/Levenberg-Marquardt-Algorithm)
 
 ## [Leaspy is a software package for the statistical analysis of longitudinal data, particularly medical data that comes in a form of repeated observations of patients at different time-points.](https://gitlab.com/icm-institute/aramislab/leaspy)
-[Respective Documentation] (https://disease-progression-modelling.github.io/pages/notebooks/disease_course_mapping/TP1_LMM.html)
+[Respective Documentation](https://disease-progression-modelling.github.io/pages/notebooks/disease_course_mapping/TP1_LMM.html)

@@ -30,3 +30,8 @@ PyG is the ultimate library for Graph Neural Networks
 ## [DEEP GRAPH LIBRARY Easy Deep Learning on Graphs](https://www.dgl.ai/)
 
 ## [DML Git Lab Computer Engineering Department](http://git.dml.ir/)
+
+## [graspologic](https://microsoft.github.io/graspologic/latest/tutorials/index.html)
+graspologic is a Python package for analysis of graphs, or networks.
+Motivation¶
+A graph, or network, provides a mathematically intuitive representation of data with some sort of relationship between items. For example, a social network can be represented as a graph by considering all participants in the social network as nodes, with connections representing whether each pair of individuals in the network are friends with one another. Naively, one might apply traditional statistical techniques to a graph, which neglects the spatial arrangement of nodes within the network and is not utilizing all of the information present in the graph. In this package, we provide utilities and algorithms designed for the processing and analysis of graphs with specialized graph statistical algorithms.

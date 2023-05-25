@@ -17,3 +17,6 @@
 ## [Leaspy is a software package for the statistical analysis of longitudinal data, particularly medical data that comes in a form of repeated observations of patients at different time-points.](https://gitlab.com/icm-institute/aramislab/leaspy)
 [Respective Documentation](https://disease-progression-modelling.github.io/pages/notebooks/disease_course_mapping/TP1_LMM.html)
 ## [Leading to the dataviz you need](https://github.com/holtzy)
+## [Morphomatics: Geometric morphometrics in non-Euclidean shape spaces](https://github.com/morphomatics/morphomaticsMorphomatics)
+: Geometric morphometrics in non-Euclidean shape spaces
+Morphomatics is an open-source Python library for (statistical) shape analysis developed within the geometric data analysis and processing research group at Zuse Institute Berlin. It contains prototype implementations of intrinsic manifold-based methods that are highly consistent and avoid the influence of unwanted effects such as bias due to arbitrary choices of coordinates.

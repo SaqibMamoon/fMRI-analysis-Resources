@@ -35,3 +35,7 @@ PyG is the ultimate library for Graph Neural Networks
 graspologic is a Python package for analysis of graphs, or networks.
 Motivation¶
 A graph, or network, provides a mathematically intuitive representation of data with some sort of relationship between items. For example, a social network can be represented as a graph by considering all participants in the social network as nodes, with connections representing whether each pair of individuals in the network are friends with one another. Naively, one might apply traditional statistical techniques to a graph, which neglects the spatial arrangement of nodes within the network and is not utilizing all of the information present in the graph. In this package, we provide utilities and algorithms designed for the processing and analysis of graphs with specialized graph statistical algorithms.
+
+## [Snap.py - SNAP for Python](https://snap.stanford.edu/snappy/index.html)
+Snap.py is a Python interface for SNAP. SNAP is a general purpose, high performance system for analysis and manipulation of large networks. SNAP is written in C++ and optimized for maximum performance and compact graph representation. It easily scales to massive networks with hundreds of millions of nodes, and billions of edges.
+Snap.py provides performance benefits of SNAP, combined with flexibility of Python. Most of the SNAP functionality is available via Snap.py in Python.

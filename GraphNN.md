@@ -41,3 +41,6 @@ A graph, or network, provides a mathematically intuitive representation of data 
 ## [Snap.py - SNAP for Python](https://snap.stanford.edu/snappy/index.html)
 Snap.py is a Python interface for SNAP. SNAP is a general purpose, high performance system for analysis and manipulation of large networks. SNAP is written in C++ and optimized for maximum performance and compact graph representation. It easily scales to massive networks with hundreds of millions of nodes, and billions of edges.
 Snap.py provides performance benefits of SNAP, combined with flexibility of Python. Most of the SNAP functionality is available via Snap.py in Python.
+## [Morphomatics: Geometric morphometrics in non-Euclidean shape spaces](https://github.com/morphomatics/morphomatics)
+Morphomatics is an open-source Python library for (statistical) shape analysis developed within the geometric data analysis and processing research group at Zuse Institute Berlin. It contains prototype implementations of intrinsic manifold-based methods that are highly consistent and avoid the influence of unwanted effects such as bias due to arbitrary choices of coordinates.
+

@@ -25,6 +25,22 @@ assistant professor in the Department of Computer Science at Yale University
 ## [Prof. Jure Leskovec](http://snap.stanford.edu/people.html)
 Research area is applied machine learning for large interconnected systems focusing on modeling complex, richly-labeled relational structures, graphs, and networks for systems at all scales, from interactions of proteins in a cell to interactions between humans in a society. Applications include commonsense reasoning, recommender systems, computational social science, and computational biology with an emphasis on drug discovery.
 ## [EnyanDai](https://github.com/EnyanDai?tab=repositories)
+## [A Modular Framework for Unsupervised Graph Representation Learning](https://github.com/dfdazac/modgraph)
+Methods for unsupervised representation learning on graphs can be described in terms of modules:
+
+Graph encoders
+Representations
+Scoring functions
+Loss functions
+Sampling strategies
+By identifying this we can reproduce existing methods:
+Variational Graph Autoencoders
+Graph Autoencoders 
+Deep Graph Infomax
+Graph2Gaus
+
+
+
 # Libraries
 ## [Pytorch Gerometric](https://www.pyg.org/)
 PyG is the ultimate library for Graph Neural Networks

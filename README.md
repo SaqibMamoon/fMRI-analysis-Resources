@@ -73,3 +73,6 @@ https://neuraldatascience.io/intro.html
 
 ## Introduction to Neuroscience Professor Bing Wen Brunton
 [YouTube PlayList](https://www.youtube.com/playlist?list=PLqgZEQsU_8E0l1P9bKR6yKOKPMpoJ_tLR)
+
+## Essentials of neuroscience with MATLAB
+[YouTube PlayList](https://www.youtube.com/playlist?list=PLn0OLiymPak1b2aYULx6hDVU7wSGEUJqw)

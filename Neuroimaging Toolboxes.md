@@ -39,3 +39,7 @@ MATLAB toolbox for complex brain-network analysis
 
 ## [Configurable Pipeline for the Analysis of Connectomes](https://github.com/orgs/FCP-INDI/repositories)
 CPAC piple repo Python fMRI and Anat preprocessing pipeline
+
+## [BioImage Suite web](https://bioimagesuiteweb.github.io/webapp/binaries.html)
+### [YouTube Channel](https://www.youtube.com/@yalebioimagesuite6365/videos)
+This page contains desktop and commandline versions of the tools in BioImage Suite web. BioImage Suite Web also works directly in your browser and can be accessed from this webpage. We gratefully acknowledge support from the NIH Brain Initiative under grant R24 MH114805 (Papademetris X. and Scheinost D. PIs).

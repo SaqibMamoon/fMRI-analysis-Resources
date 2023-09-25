@@ -24,3 +24,6 @@ Morphomatics is an open-source Python library for (statistical) shape analysis d
 Gephi is an award-winning open-source platform for visualizing and manipulating large graphs. 
 
 ## [Mcfly is deep learning tool for time series classification](https://github.com/NLeSC/mcfly-tutorial/tree/main)
+
+## [your-brain-mri-visualisation](https://github.com/kondratevakate/your-brain-mri-visualization)
+Use freesurfer to process your imaging data, and get fancy viz in blender
